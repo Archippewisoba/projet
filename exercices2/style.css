@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(206, 213, 223);
+    width: 200px;
+    margin: 0 auto;
+    padding-left: 500px;
+}
+ul,
+ {
+    font: 1rem 'Fira sans', sans-serif;
+}
+button{
+    background-color: rgb(81, 81, 235);
+    color:white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+}
